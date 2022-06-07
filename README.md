@@ -2,6 +2,7 @@
 - 👀 I’m interested in Python Code
 - 🌱 I’m studied at Dian Nuswantoro University
 - 📫 How to reach me ? chat me at discord Cho#9670
+- <>  All My Code using Phyton
 
 <!---
 Mazcho/Mazcho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
